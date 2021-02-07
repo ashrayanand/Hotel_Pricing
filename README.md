@@ -1,4 +1,7 @@
 # Hotel_Pricing
+
+Seattle AirBnb dataset of listings data is given. We will need to predict the prices of listings shared in the test dataset. A natural use case for this would be in helping people price their listings.
+
 Task:
 1. The goal of the assignment is to predict the prices of AirBnb listings from the test set, using a model carefully selected by you, trained, tested, and explained.
 2. Conduct some exploratory data analysis and understand the relationships between potential predictors. Document your EDA in a notebook.
